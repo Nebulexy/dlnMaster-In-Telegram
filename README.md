@@ -1,2 +1,2 @@
-# dlnMaster-In-Telegram
+# DlnMaster in Telegram
 CryptoDev
